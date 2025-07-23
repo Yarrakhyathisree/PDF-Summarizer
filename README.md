@@ -1,5 +1,4 @@
-# PDF-Summarizer
-# 📄 PDF Summarization with Gemini API 🚀
+# 📄 PDF Summarization 
 
 This project provides a simple interface to **upload multiple PDFs** and generate a **combined summary** using Google's **Gemini 2.0 Flash** model. It leverages `LangChain`, `PyPDF`, and `Streamlit` for document processing and UI, and `google.generativeai` for content generation.
 
